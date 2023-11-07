@@ -88,7 +88,7 @@ a:active{
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
     transition-duration: var(--transition-duration);
-    transition-property: color, background;
+    transition-property: color, background-color;
 }
 body{
     color: var(--text-color);
